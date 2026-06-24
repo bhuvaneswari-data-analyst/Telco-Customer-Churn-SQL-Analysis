@@ -123,7 +123,7 @@ This project uses SQL to analyze customer demographics, contract types, payment 
 
 ### Contract Type vs Churn
 
-![Contract Type vs Churn](Images/contract_vs_churn.png)
+![Contract Type vs Churn](Images/contract_type_vs_churn.png)
 
 ### Payment Method vs Churn
 
@@ -131,7 +131,7 @@ This project uses SQL to analyze customer demographics, contract types, payment 
 
 ### Revenue by Contract Type
 
-![Revenue by Contract Type](Images/revenue_by_contract.png)
+![Revenue by Contract Type](Images/revenue_by_contract_type.png)
 
 ### Revenue Lost Due to Churn
 
