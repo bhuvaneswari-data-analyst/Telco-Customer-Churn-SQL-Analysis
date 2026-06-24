@@ -135,7 +135,7 @@ This project uses SQL to analyze customer demographics, contract types, payment 
 
 ### Revenue Lost Due to Churn
 
-![Revenue Lost Due to Churn](Images/revenue_lost_due_to_churn.png)
+![Revenue Lost Due to Churn](Images/revenue_lost_dueto_churn.png)
 
 ---
 
